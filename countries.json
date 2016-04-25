@@ -3932,6 +3932,10 @@
       "fin": {
         "official": "Kookossaaret",
         "common": "Kookossaaret"
+      },
+      "tur": {
+        "official": "Cocos Adaları",
+        "common": "Keyling Adaları"
       }
     },
     "latlng": [

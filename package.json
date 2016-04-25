@@ -33,9 +33,5 @@
       "url": "http://opendatacommons.org/licenses/odbl/1.0/"
     }
   ],
-  "homepage": "https://mledoze.github.io/countries/",
-  "dependencies": {
-    "bluebird": "3.3.5",
-    "request": "2.72.0"
-  }
+  "homepage": "https://mledoze.github.io/countries/"
 }
