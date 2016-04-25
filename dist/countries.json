@@ -1414,6 +1414,10 @@
       "fin": {
         "official": "Australian liittovaltio",
         "common": "Australia"
+      },
+      "tur": {
+        "official": "Avustralya",
+        "common": "Avustralya"
       }
     },
     "latlng": [
@@ -1504,6 +1508,10 @@
       "fin": {
         "official": "It\u00e4vallan tasavalta",
         "common": "It\u00e4valta"
+      },
+      "tur": {
+        "official": "Avusturya Cumhuriyeti",
+        "common": "Avusturya"
       }
     },
     "latlng": [
@@ -1608,6 +1616,10 @@
       "fin": {
         "official": "Azerbaidzanin tasavalta",
         "common": "Azerbaidzan"
+      },
+      "tur": {
+        "official": "Azerbaycan Cumhuriyeti",
+        "common": "Azerbaycan"
       }
     },
     "latlng": [
@@ -1709,6 +1721,10 @@
       },
       "fin": {
         "official": "Burundin tasavalta",
+        "common": "Burundi"
+      },
+      "tur": {
+        "official": "Burundi Cumhuriyeti",
         "common": "Burundi"
       }
     },
@@ -1820,6 +1836,10 @@
       "fin": {
         "official": "Belgian kuningaskunta",
         "common": "Belgia"
+      },
+      "tur": {
+        "official": "Belçika Krall\u0131\u011F\u0131",
+        "common": "Belçika"
       }
     },
     "latlng": [
@@ -1915,6 +1935,10 @@
       "fin": {
         "official": "Beninin tasavalta",
         "common": "Benin"
+      },
+      "tur": {
+        "official": "Benin Cumhuriyeti",
+        "common": "Benin"
       }
     },
     "latlng": [
@@ -2006,6 +2030,10 @@
         "common": "Burkina Faso"
       },
       "fin": {
+        "official": "Burkina Faso",
+        "common": "Burkina Faso"
+      },
+      "tur": {
         "official": "Burkina Faso",
         "common": "Burkina Faso"
       }
@@ -2105,6 +2133,10 @@
       "fin": {
         "official": "Bangladeshin kansantasavalta",
         "common": "Bangladesh"
+      },
+      "tur": {
+        "official": "Bangladeş Halk Cumhuriyeti",
+        "common": "Bangladeş"
       }
     },
     "latlng": [
@@ -2198,6 +2230,10 @@
       "fin": {
         "official": "Bulgarian tasavalta",
         "common": "Bulgaria"
+      },
+      "tur": {
+        "official": "Bulgaristan Cumhuriyeti",
+        "common": "Bulgaristan"
       }
     },
     "latlng": [
@@ -2294,6 +2330,10 @@
       "fin": {
         "official": "Bahrainin kuningaskunta",
         "common": "Bahrain"
+      },
+      "tur": {
+        "official": "Bahreyn Krallığı",
+        "common": "Bahreyn"
       }
     },
     "latlng": [
@@ -2383,6 +2423,10 @@
       "fin": {
         "official": "Bahaman liittovaltio",
         "common": "Bahamasaaret"
+      },
+      "tur": {
+        "official": "Bahamalar",
+        "common": "Bahamalar"
       }
     },
     "latlng": [
@@ -2483,6 +2527,10 @@
       "fin": {
         "official": "Bosnia ja Hertsegovina",
         "common": "Bosnia ja Hertsegovina"
+      },
+      "tur": {
+        "official": "Bosna-Hersek",
+        "common": "Bosna-Hersek"
       }
     },
     "latlng": [
@@ -2574,6 +2622,10 @@
       "fin": {
         "official": "Saint-Barth\u00e9lemyn yhteis\u00f6",
         "common": "Saint-Barth\u00e9lemy"
+      },
+      "tur": {
+        "official": "Saint Barth\u00e9lemy",
+        "common": "Saint Barth\u00e9lemy"
       }
     },
     "latlng": [
@@ -2673,6 +2725,10 @@
       "fin": {
         "official": "Valko-Ven\u00e4j\u00e4n tasavalta",
         "common": "Valko-Ven\u00e4j\u00e4"
+      },
+      "tur": {
+        "official": "Beyaz Rusya Cumhuriyeti",
+        "common": "Belarus"
       }
     },
     "latlng": [
@@ -2777,6 +2833,10 @@
       "fin": {
         "official": "Belize",
         "common": "Belize"
+      },
+      "tur": {
+        "official": "Belize",
+        "common": "Belize"
       }
     },
     "latlng": [
@@ -2871,6 +2931,10 @@
       "fin": {
         "official": "Bermuda",
         "common": "Bermuda"
+      },
+      "tur": {
+        "official": "Bermuda Adalar\u0131",
+        "common": "Bermuda Adalar\u0131"
       }
     },
     "latlng": [
@@ -2983,6 +3047,10 @@
       "fin": {
         "official": "Bolivian monikansainen valtio",
         "common": "Bolivia"
+      },
+      "tur": {
+        "official": "\u00C7okuluslu Bolivya Devleti",
+        "common": "Bolivya"
       }
     },
     "latlng": [
@@ -3080,6 +3148,10 @@
       "fin": {
         "official": "Brasilian liittotasavalta",
         "common": "Brasilia"
+      },
+      "tur": {
+        "official": "Brezilya Federal Cumhuriyeti",
+        "common": "Brezilya"
       }
     },
     "latlng": [
@@ -3179,6 +3251,10 @@
       "fin": {
         "official": "Barbados",
         "common": "Barbados"
+      },
+      "tur": {
+        "official": "Barbados",
+        "common": "Barbados"
       }
     },
     "latlng": [
@@ -3269,6 +3345,10 @@
       },
       "fin": {
         "official": "Brunei Darussalamin valtio",
+        "common": "Brunei"
+      },
+      "tur": {
+        "official": "Brunei Bar\u0131\u015F \u00DClkesi Devleti",
         "common": "Brunei"
       }
     },
@@ -3362,6 +3442,10 @@
       "fin": {
         "official": "Bhutanin kuningaskunta",
         "common": "Bhutan"
+      },
+      "tur": {
+        "official": "Bhutan Krall\u0131\u011F\u0131",
+        "common": "Bhutan"
       }
     },
     "latlng": [
@@ -3449,6 +3533,10 @@
       "fin": {
         "official": "Bouvet'nsaari",
         "common": "Bouvet'nsaari"
+      },
+      "tur": {
+        "official": "Bouvet Adas\u0131",
+        "common": "Bouvet Adas\u0131"
       }
     },
     "latlng": [
@@ -3540,6 +3628,10 @@
       "fin": {
         "official": "Botswanan tasavalta",
         "common": "Botswana"
+      },
+      "tur": {
+        "official": "Botsvana Cumhuriyeti",
+        "common": "Botsvana"
       }
     },
     "latlng": [
@@ -3640,6 +3732,10 @@
       "fin": {
         "official": "Keski-Afrikan tasavalta",
         "common": "Keski-Afrikan tasavalta"
+      },
+      "tur": {
+        "official": "Orta Afrika Cumhuriyeti",
+        "common": "Orta Afrika Cumhuriyeti"
       }
     },
     "latlng": [
